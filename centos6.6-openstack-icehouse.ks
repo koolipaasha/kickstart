@@ -1,7 +1,9 @@
 # kickstart template for Fedora 8 and later.
 # (includes %end blocks)
 # do not use with earlier distros
-
+#
+#Maintained by Ananthan and Phijo
+#
 #platform=x86, AMD64, or Intel EM64T
 # System authorization information
 auth  --useshadow  --enablemd5
